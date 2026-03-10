@@ -1,1 +1,6 @@
-".env" 
+.env
+database.db
+venv/
+venv*/
+__pycache__/
+.python-version
